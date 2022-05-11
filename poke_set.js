@@ -64,11 +64,11 @@ media_seperator	= '#';
 //
 question = new Array(
 //------------------------------------下一行開始增加題目
-  'ample/0511.png,1'
-, 'sample/0511_2.png,2'
-, 'sample/0511_3.png,3'
-, 'ample/0511_4.png,4'
-, 'ample/0511_5.png,5'
-, 'ample/0511_6.png,6'
+  'sample/0511.png,1'
+, 'sample/0511_2.png,1'
+, 'sample/0511_3.png,1'
+, 'sample/0511_4.png,1'
+, 'sample/0511_5.png,1'
+, 'sample/0511_6.png,1'
 //------------------------------------題庫結束,以下請勿修改
 );
