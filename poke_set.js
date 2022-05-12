@@ -70,5 +70,6 @@ question = new Array(
 , 'sample/0511_4.png,1'
 , 'sample/0511_5.png,1'
 , 'sample/0511_6.png,1'
+ , 'sample/0512.png,1' 
 //------------------------------------題庫結束,以下請勿修改
 );
